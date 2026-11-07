@@ -63,6 +63,6 @@ The application features a comprehensive test suite covering both business logic
 ## Screen Shots
 
 *(Add your screenshots here)*
-* Note Listing Screen
 * Add New Note
+* Note Listing Screen
 * Delete Note Snackbar Confirmation
