@@ -62,6 +62,8 @@ The application features a comprehensive test suite covering both business logic
 
 ## Screen Shots
 
+Phone
+
 ## Add New Note
 <img src="https://github.com/Suparna-here/NoteTakingApp/blob/main/ScreenShots/Phone/AddNote.png" width="40%" />
 
