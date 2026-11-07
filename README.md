@@ -62,10 +62,11 @@ The application features a comprehensive test suite covering both business logic
 
 ## Screen Shots
 
-* ## Add New Note
+## Add New Note
 <img src="https://github.com/Suparna-here/NoteTakingApp/blob/main/ScreenShots/Phone/AddNote.png" width="40%" />
 
-## Recipe In Detail
-<img src="https://github.com/Suparna-here/CakeBaking-app/blob/master/ScreenShots/Phone/RecipeInDetail.png" width="40%" />
-* Note Listing Screen
-* Delete Note Snackbar Confirmation
+## Note Listing Screen
+<img src="https://github.com/Suparna-here/NoteTakingApp/blob/main/ScreenShots/Phone/ListingNote.png" width="40%" />
+
+## Delete Note Snackbar Confirmation
+<img src="https://github.com/Suparna-here/NoteTakingApp/blob/main/ScreenShots/Phone/DeleteNote.png" width="40%" />
