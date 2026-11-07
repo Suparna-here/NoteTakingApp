@@ -67,8 +67,10 @@ Phone
 ## Add New Note
 <img src="https://github.com/Suparna-here/NoteTakingApp/blob/main/ScreenShots/Phone/AddNote.png" width="40%" />
 
+
 ## Note Listing Screen
 <img src="https://github.com/Suparna-here/NoteTakingApp/blob/main/ScreenShots/Phone/ListingNote.png" width="40%" />
+
 
 ## Delete Note Snackbar Confirmation
 <img src="https://github.com/Suparna-here/NoteTakingApp/blob/main/ScreenShots/Phone/DeleteNote.png" width="40%" />
