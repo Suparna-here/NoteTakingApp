@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NoteTakingApp</string>
+    <string name="note_title">Title</string>
+    <string name="note_content">Content</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="error_loading_notes">Couldn\'t load notes: %1$s</string>
+    <string name="error_unexpected">An unexpected error occurred.</string>
+    <string name="error_deleting_note">An error occurred while deleting the note.</string>
+    <string name="error_title_empty">The title of the note can\'t be empty.</string>
+    <string name="error_content_empty">The content of the note can\'t be empty.</string>
+</resources>
